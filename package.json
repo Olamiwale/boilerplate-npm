@@ -19,5 +19,6 @@
   "version": "1.0.0",
   "keywords": [],
   "author": "Paul olamiwale",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
